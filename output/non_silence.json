@@ -1,0 +1,123 @@
+{
+  "audio_file": "Path.m4a",
+  "source_silence_json": "silence.json",
+  "timeline_start_sec": 0.0,
+  "timeline_end_sec": 26.88,
+  "last_silence_end_sec": 26.817,
+  "used_ffprobe_for_timeline_end": true,
+  "total_non_silence_intervals": 14,
+  "segments": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 0.388,
+      "duration_sec": 0.388,
+      "start": "00:00.000",
+      "end": "00:00.388",
+      "index": 0
+    },
+    {
+      "start_sec": 1.298,
+      "end_sec": 2.986,
+      "duration_sec": 1.688,
+      "start": "00:01.298",
+      "end": "00:02.986",
+      "index": 1
+    },
+    {
+      "start_sec": 3.4,
+      "end_sec": 5.626,
+      "duration_sec": 2.226,
+      "start": "00:03.400",
+      "end": "00:05.626",
+      "index": 2
+    },
+    {
+      "start_sec": 6.517,
+      "end_sec": 8.602,
+      "duration_sec": 2.085,
+      "start": "00:06.517",
+      "end": "00:08.602",
+      "index": 3
+    },
+    {
+      "start_sec": 9.9,
+      "end_sec": 10.328,
+      "duration_sec": 0.428,
+      "start": "00:09.900",
+      "end": "00:10.328",
+      "index": 4
+    },
+    {
+      "start_sec": 10.648,
+      "end_sec": 11.485,
+      "duration_sec": 0.837,
+      "start": "00:10.648",
+      "end": "00:11.485",
+      "index": 5
+    },
+    {
+      "start_sec": 12.611,
+      "end_sec": 12.948,
+      "duration_sec": 0.337,
+      "start": "00:12.611",
+      "end": "00:12.948",
+      "index": 6
+    },
+    {
+      "start_sec": 13.322,
+      "end_sec": 14.309,
+      "duration_sec": 0.987,
+      "start": "00:13.322",
+      "end": "00:14.309",
+      "index": 7
+    },
+    {
+      "start_sec": 15.555,
+      "end_sec": 16.281,
+      "duration_sec": 0.726,
+      "start": "00:15.555",
+      "end": "00:16.281",
+      "index": 8
+    },
+    {
+      "start_sec": 16.983,
+      "end_sec": 18.31,
+      "duration_sec": 1.327,
+      "start": "00:16.983",
+      "end": "00:18.310",
+      "index": 9
+    },
+    {
+      "start_sec": 19.203,
+      "end_sec": 20.141,
+      "duration_sec": 0.938,
+      "start": "00:19.203",
+      "end": "00:20.141",
+      "index": 10
+    },
+    {
+      "start_sec": 21.128,
+      "end_sec": 22.27,
+      "duration_sec": 1.142,
+      "start": "00:21.128",
+      "end": "00:22.270",
+      "index": 11
+    },
+    {
+      "start_sec": 23.413,
+      "end_sec": 25.854,
+      "duration_sec": 2.441,
+      "start": "00:23.413",
+      "end": "00:25.854",
+      "index": 12
+    },
+    {
+      "start_sec": 26.817,
+      "end_sec": 26.88,
+      "duration_sec": 0.063,
+      "start": "00:26.817",
+      "end": "00:26.880",
+      "index": 13
+    }
+  ]
+}

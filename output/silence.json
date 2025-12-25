@@ -1,0 +1,99 @@
+{
+  "audio_file": "Path.m4a",
+  "noise_threshold_db": -35,
+  "min_silence_duration_sec": 0.3,
+  "total_silence_intervals": 13,
+  "silences": [
+    {
+      "start_sec": 0.388,
+      "end_sec": 1.298,
+      "start": "00:00.388",
+      "end": "00:01.298",
+      "index": 0
+    },
+    {
+      "start_sec": 2.986,
+      "end_sec": 3.4,
+      "start": "00:02.986",
+      "end": "00:03.400",
+      "index": 1
+    },
+    {
+      "start_sec": 5.626,
+      "end_sec": 6.517,
+      "start": "00:05.626",
+      "end": "00:06.517",
+      "index": 2
+    },
+    {
+      "start_sec": 8.602,
+      "end_sec": 9.9,
+      "start": "00:08.602",
+      "end": "00:09.900",
+      "index": 3
+    },
+    {
+      "start_sec": 10.328,
+      "end_sec": 10.648,
+      "start": "00:10.328",
+      "end": "00:10.648",
+      "index": 4
+    },
+    {
+      "start_sec": 11.485,
+      "end_sec": 12.611,
+      "start": "00:11.485",
+      "end": "00:12.611",
+      "index": 5
+    },
+    {
+      "start_sec": 12.948,
+      "end_sec": 13.322,
+      "start": "00:12.948",
+      "end": "00:13.322",
+      "index": 6
+    },
+    {
+      "start_sec": 14.309,
+      "end_sec": 15.555,
+      "start": "00:14.309",
+      "end": "00:15.555",
+      "index": 7
+    },
+    {
+      "start_sec": 16.281,
+      "end_sec": 16.983,
+      "start": "00:16.281",
+      "end": "00:16.983",
+      "index": 8
+    },
+    {
+      "start_sec": 18.31,
+      "end_sec": 19.203,
+      "start": "00:18.310",
+      "end": "00:19.203",
+      "index": 9
+    },
+    {
+      "start_sec": 20.141,
+      "end_sec": 21.128,
+      "start": "00:20.141",
+      "end": "00:21.128",
+      "index": 10
+    },
+    {
+      "start_sec": 22.27,
+      "end_sec": 23.413,
+      "start": "00:22.270",
+      "end": "00:23.413",
+      "index": 11
+    },
+    {
+      "start_sec": 25.854,
+      "end_sec": 26.817,
+      "start": "00:25.854",
+      "end": "00:26.817",
+      "index": 12
+    }
+  ]
+}
